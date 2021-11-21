@@ -19,6 +19,7 @@ I'm working on this project in-between the margins as the mood strikes me, so if
 
 # TODOs
 * [ ] get a [working POC](./poc-brainstorming.md) across two macs in whatever, likely node
+* [ ] add an hourly project log?
 * [ ] version the storage?
   * metadata on the files might suffice?
   * or maybe just file conflict management

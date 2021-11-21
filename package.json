@@ -1,0 +1,23 @@
+{
+  "name": "responses-sync",
+  "version": "0.1.0",
+  "description": "Cross-device management of saved response images.",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest",
+    "tdd": "NODE_OPTIONS=--experimental-vm-modules npx jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirate-matt/responses-sync.git"
+  },
+  "author": "piratematt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirate-matt/responses-sync/issues"
+  },
+  "homepage": "https://github.com/pirate-matt/responses-sync#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
